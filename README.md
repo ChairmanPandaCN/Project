@@ -1,4 +1,5 @@
 # Project
+![GPD-Group-12](https://circleci.com/gh/GPD-Group-12/Project.svg?style=shield)
 
 Group Design Project Group 12 woooop!
 
